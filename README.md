@@ -1,2 +1,2 @@
 # SmartWatch
-C++ Arduino framework for esp32
+ESP-32 OS for primarily touch screen devices with button peripherals
